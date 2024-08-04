@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bee1000", "bee1000\bee1000.csproj", "{E4742549-3147-4080-AB21-BEF7654D682B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bee1001", "bee1001\bee1001.csproj", "{71FEB746-EEE3-4D54-A2F9-D39E64532E96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4742549-3147-4080-AB21-BEF7654D682B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4742549-3147-4080-AB21-BEF7654D682B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4742549-3147-4080-AB21-BEF7654D682B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4742549-3147-4080-AB21-BEF7654D682B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71FEB746-EEE3-4D54-A2F9-D39E64532E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FEB746-EEE3-4D54-A2F9-D39E64532E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FEB746-EEE3-4D54-A2F9-D39E64532E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FEB746-EEE3-4D54-A2F9-D39E64532E96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
